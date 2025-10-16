@@ -92,6 +92,8 @@ summary {
   border-bottom-width: 1px;
   outline: none;
   font-size: 20px;
+  margin-right:30px;
+  margin-left:30px;
 }
 .generalInputs:focus {
   border-color: rgb(99, 99, 232);
@@ -333,6 +335,7 @@ transition: 0.1s;
 color: #00a4ef;
 
 }
+
 
 
 
