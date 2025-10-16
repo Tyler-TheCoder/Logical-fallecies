@@ -86,7 +86,7 @@ summary {
 }
 .generalInputs {
   height: 50px;
-  max-width: calc(100%-50px);
+  width: calc(100%-50px);
   border: none;
   border-bottom: solid;
   border-bottom-width: 1px;
@@ -328,4 +328,5 @@ transition: 0.1s;
 color: #00a4ef;
 
 }
+
 
