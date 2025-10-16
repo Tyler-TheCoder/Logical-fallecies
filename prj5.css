@@ -92,8 +92,7 @@ summary {
   border-bottom-width: 1px;
   outline: none;
   font-size: 20px;
-  margin-right:60px;
-  margin-left:60px;
+  
 }
 .generalInputs:focus {
   border-color: rgb(99, 99, 232);
@@ -126,7 +125,9 @@ summary {
   margin-top: 50px;
   box-shadow: 0px 0px 10px 0px rgb(50, 50, 50);
   /* padding-bottom: 20px; */
-  padding: 30px;
+  padding: 20px;
+  padding-right:60px;
+  padding-left:60px;
   
   /* transform: scale(0.9); */
 }
@@ -156,8 +157,10 @@ summary {
   gap: 10px;
   box-shadow: 0px 0px 10px 0px rgb(57, 57, 57);
    /* padding-bottom: 20px; */
-  padding: 30px ;
-   margin-bottom: 20px;
+  padding: 20px ;
+  padding-right:60px;
+  padding-left:60px;
+  margin-bottom: 20px;
   margin-top: 20px; 
 }
 
@@ -335,6 +338,7 @@ transition: 0.1s;
 color: #00a4ef;
 
 }
+
 
 
 
